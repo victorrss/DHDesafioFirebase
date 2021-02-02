@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Desafio4 Firebase</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="remember">Remember</string>
+    <string name="login">LOG IN</string>
+    <string name="create_account">Create account</string>
+    <string name="name">Name</string>
+    <string name="repeate_password">Repeate Password</string>
+    <string name="search_games">Search Games</string>
+    <string name="save_game">SAVE GAME</string>
+    <string name="created">Created at</string>
+    <string name="description">Description</string>
+</resources>
